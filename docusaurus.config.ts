@@ -116,7 +116,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Qexak Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Qexal`,
     },
     prism: {
       theme: prismThemes.github,
