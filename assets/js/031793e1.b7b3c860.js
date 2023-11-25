@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqexal_docs=self.webpackChunkqexal_docs||[]).push([[633],{2511:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/blog/tags/facebook","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
