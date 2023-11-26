@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Settings'
+sidebar_label: 'SMTP Email Configuration'
 sidebar_position: 1
 ---
 
