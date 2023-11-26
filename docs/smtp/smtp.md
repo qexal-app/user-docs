@@ -7,25 +7,25 @@ sidebar_position: 1
 
 ### Set-Up SMTP in Gmail
 
+:::warning NOTE
+Ensure that 2-step verification is already enabled in your Google Account.
+:::
+
 First, it is needed to set up SMTP in Gmail.
 
-1. HOST NAME: Enter `smtp.gmail.com`.
+1. **Host name**: Enter `smtp.gmail.com`.
 
-2. PORT: Use `587` as the port number.
+2. **Port**: Use `587` as the port number.
 
-3. USER NAME: Provide the email address of the user who will be sending the emails.
+3. **User name**: Provide the email address of the user who will be sending the emails.
 
-4. PASSWORD: Use the same password that you used when creating the app on your Google Account.
+4. **Password**: Use the same password that you used when creating the app on your Google Account.
 
-5. ENABLE SSL: Ensure that this option is checked.
+5. **Enable SSL**: Ensure that this option is checked.
 
 Proceed with the following steps:
 
 ![Gmail SMTP config](./img/smtp_gmail_1700928065.png)
-
-:::warning NOTE
-Ensure that 2-step verification is already enabled in your Google Account.
-:::
 
 1. Navigate to your Google Account settings by going to [App Passwords](https://myaccount.google.com/apppasswords).
 
