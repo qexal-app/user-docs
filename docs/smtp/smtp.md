@@ -21,7 +21,7 @@ First, it is needed to set up SMTP in Gmail.
 
 Proceed with the following steps:
 
-![Gmail SMTP config](./img/smtp_gmail_1700928065.jpg)
+![Gmail SMTP config](./img/smtp_gmail_1700928065.png)
 
 :::warning NOTE
 Ensure that 2-step verification is already enabled in your Google Account.
