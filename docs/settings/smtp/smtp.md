@@ -1,8 +1,3 @@
----
-sidebar_label: 'Settings'
-sidebar_position: 1
----
-
 # SMTP Configuration
 
 ### Set-Up SMTP in Gmail
