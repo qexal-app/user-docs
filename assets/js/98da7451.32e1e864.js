@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkqexal_docs=self.webpackChunkqexal_docs||[]).push([[141],{8777:t=>{t.exports=JSON.parse('{"title":"Settings","slug":"/category/settings","permalink":"/docs/category/settings","navigation":{"previous":{"title":"Getting Started","permalink":"/docs/intro"},"next":{"title":"SMTP Configuration","permalink":"/docs/settings/smtp/"}}}')}}]);
