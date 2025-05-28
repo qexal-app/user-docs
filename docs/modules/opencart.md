@@ -42,7 +42,7 @@ Navigate to your OpenCart admin panel, typically: https://yourdomain.com/admin
 In the module settings, you'll find the following fields:
 
 - **API key**: Paste your API key provided by Qexal
-- **Status**: Set to **Enabled** (`Enabled`) to activate the module
+- **Status**: Set to **Enabled** to activate the module
 
 Click **Save (💾)** to apply changes.
 
